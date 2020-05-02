@@ -1,9 +1,11 @@
 ---
 layout: post
 title: 无邀请码推广研究与实现
-categories: [JavaScript,Android,iOS]
+categories: Research
 description: 无邀请码推广研究与实现
-keywords: 无邀请码推广
+keywords: 无邀请码,推广
 ---
 
-## 标题
+## 无邀请码推广研究与实现
+
+实现无邀请码推
