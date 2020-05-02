@@ -98,7 +98,7 @@ disqus:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner:
-    repo: 
+    repo:
     oauth:
         client_id:
         client_secret:
