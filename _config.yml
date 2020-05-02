@@ -4,14 +4,14 @@
 baseurl:
 url: https://blog.heping.tech
 date_format: "ordinal"
-title: Heping.Tech
+title: 菜鸟502的个人博客
 subtitle: "菜鸟502的个人博客"
 description: "菜鸟502的个人博客"
 keywords: heping,菜鸟502,phiall502
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
-repository:
+repository: blog/phiall.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -124,10 +124,10 @@ simple_jekyll_search:
 #      Google      #
 # ---------------- #
 google:
-    analytics_id: UA-80669434-1
+    analytics_id:
     adsense:
-        footer: true
-        sidebar: true 
+        footer: false
+        sidebar: false
         content_header: true
         content_footer: false
 
