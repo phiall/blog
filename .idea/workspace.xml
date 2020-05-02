@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c131a966-b6c3-4e85-9db6-0529970a2640" name="Default" comment="" />
+    <list default="true" id="c131a966-b6c3-4e85-9db6-0529970a2640" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -134,6 +136,8 @@
       <find>categories</find>
       <find>Search</find>
       <find>googlea</find>
+      <find>google</find>
+      <find>content-foo</find>
     </findStrings>
     <replaceStrings>
       <replace>phiall</replace>
@@ -280,12 +284,12 @@
       <option name="presentableId" value="Default" />
       <updated>1588387152402</updated>
       <workItem from="1588387156823" duration="7057000" />
-      <workItem from="1588400599698" duration="1272000" />
+      <workItem from="1588400599698" duration="1403000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8329000" />
+    <option name="totallyTimeSpent" value="8460000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -415,6 +419,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
