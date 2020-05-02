@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c131a966-b6c3-4e85-9db6-0529970a2640" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2011-05-25-export-data-from-excel-to-word-by-vba.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2011-05-25-gather-multi-excel-to-one-by-vba.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_includes/content-footer-ad.html" afterPath="$PROJECT_DIR$/_includes/content-footer-ad.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/content-header-ad.html" afterPath="$PROJECT_DIR$/_includes/content-header-ad.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer-ad.html" afterPath="$PROJECT_DIR$/_includes/footer-ad.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.html" afterPath="$PROJECT_DIR$/_includes/header.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/sidebar-ad.html" afterPath="$PROJECT_DIR$/_includes/sidebar-ad.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,7 +21,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
@@ -32,7 +36,13 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-90">
               <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-              <folding />
+              <folding>
+                <marker date="1588403098477" expanded="false" signature="3240:3252" ph="..." />
+                <marker date="1588403098477" expanded="true" signature="3253:3807" ph="..." />
+                <marker date="1588403098477" expanded="true" signature="3275:3789" ph="..." />
+                <marker date="1588403098477" expanded="true" signature="3316:3574" ph="{...}" />
+                <marker date="1588403098477" expanded="true" signature="3367:3420" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -59,6 +69,26 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="categories.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/categories.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-180">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="categories.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/categories.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="6" column="53" lean-forward="false" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="page.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/page.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -69,12 +99,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sidebar-categories-cloud.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="sidebar-categories-cloud.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/sidebar-categories-cloud.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-              <folding />
+            <state relative-caret-position="180">
+              <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -117,8 +149,9 @@
       <find>categories</find>
       <find>Search</find>
       <find>googlea</find>
-      <find>google</find>
       <find>content-foo</find>
+      <find>aswift_1</find>
+      <find>google</find>
     </findStrings>
     <replaceStrings>
       <replace>phiall</replace>
@@ -267,12 +300,12 @@
       <option name="presentableId" value="Default" />
       <updated>1588387152402</updated>
       <workItem from="1588387156823" duration="7057000" />
-      <workItem from="1588400599698" duration="2094000" />
+      <workItem from="1588400599698" duration="2495000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9151000" />
+    <option name="totallyTimeSpent" value="9552000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -393,14 +426,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/categories.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="53" lean-forward="false" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/sidebar-popular-repo.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -418,14 +443,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/sidebar-search.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/categories.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -490,14 +507,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/sidebar-categories-cloud.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -518,7 +527,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-90">
           <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-          <folding />
+          <folding>
+            <marker date="1588403098477" expanded="false" signature="3240:3252" ph="..." />
+            <marker date="1588403098477" expanded="true" signature="3253:3807" ph="..." />
+            <marker date="1588403098477" expanded="true" signature="3275:3789" ph="..." />
+            <marker date="1588403098477" expanded="true" signature="3316:3574" ph="{...}" />
+            <marker date="1588403098477" expanded="true" signature="3367:3420" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -551,6 +566,32 @@
         <state relative-caret-position="180">
           <caret line="78" column="6" lean-forward="true" selection-start-line="78" selection-start-column="6" selection-end-line="78" selection-end-column="12" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/categories.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/categories.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="53" lean-forward="false" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/sidebar-categories-cloud.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
