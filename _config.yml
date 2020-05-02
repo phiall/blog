@@ -88,6 +88,7 @@ collections:
 # ---------------- #
 #      Comments    #
 # ---------------- #
+comments: false
 # support provider: disqus, gitment, gitalk
 comments_provider: gitalk
 # !!!重要!!! 请修改下面这些信息为你自己申请的
