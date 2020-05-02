@@ -42,7 +42,7 @@
         <!-- Disqus Protection, see https://github.com/phiall/phiall.github.io/issues/2 -->
         {% if site.disqus.username == 'phiall' %}
           {% assign load_disqus = false %}
-          {% if site.url contains 'mazhuang.org' %}
+          {% if site.url contains 'blog.heping.tech' %}
             {% assign load_disqus = true %}
           {% endif %}
         {% endif %}
@@ -72,8 +72,8 @@
       {% endif %}
     {% when 'gitment' %}
         <div id="container"></div>
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/imsun.github.io/gitment/style/default.css">
-        <script src="https://cdn.jsdelivr.net/gh/imsun.github.io/gitment/dist/gitment.browser.js"></script>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/hp/imsun.github.io/gitment/style/default.css">
+        <script src="https://cdn.jsdelivr.net/hp/imsun.github.io/gitment/dist/gitment.browser.js"></script>
         <script>
         var gitment = new Gitment({
             id: '{{ page.url | truncate: 50, '' }}',
