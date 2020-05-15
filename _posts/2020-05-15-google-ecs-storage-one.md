@@ -1,10 +1,9 @@
 ---
 layout: post
-title: 谷歌ECS和存储使用教程一
-categories: GoogleCloud
-description: 谷歌ECS和存储使用教程
-keywords: Google
-topmost: false
+title: 谷歌ECS和Storage使用教程
+categories: Cloud
+description: 谷歌ECS和Storage使用过程遇到的问题及解决方法。
+keywords: Cloud
 ---
 
 关于谷歌云平台的账号申请与结算功能开通这里就不提了，虽然不提，但这2个是使用谷歌ECS和存储的先决条件，如果解决不了，请自己阅读文档或使用你喜欢的搜索引擎自行查找。
