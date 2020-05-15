@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 谷歌ECS和存储使用教程一
-categories: 谷歌云
+categories: GoogleCloud
 description: 谷歌ECS和存储使用教程
 keywords: 谷歌去
 topmost: false
